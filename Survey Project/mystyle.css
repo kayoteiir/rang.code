@@ -1,0 +1,154 @@
+
+body {
+  height: 1300px;
+  width: 600px;
+  background-image: url('images/gradientO.jpg');
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 500px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.all {
+  background-image: url('images/gradientO.jpg');
+  padding-bottom: 190px;
+  border: 11px solid #002f49cd;
+  border-radius: 20px;
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.101);
+  
+}
+/*PAG-ARALAN MO TO*/
+#huhu {
+  display: grid;
+  height: 100%;
+  margin-bottom: -180px;
+  margin-top: -0.5px;
+  opacity: 90%
+}
+#try {
+  max-width: 100%;
+  max-height: 47vh;
+  margin: auto;
+}
+
+#bigtitle {
+  font-family: Papyrus, fantasy;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h2 {
+  font-family: 'Bellota', cursive;
+  color: #fffbfb; 
+  font-weight: 350;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -30px;
+  opacity: 0.5;
+}
+
+.infocolor {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #f9f7f7;
+  margin-left: 30px;
+}
+
+.information {
+  width: 80%;
+  border-color: #000000;
+  background-color: transparent;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.saradio {
+  padding-left: 30px;
+}
+
+#wtw {
+  font-size: 17px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #ffffff;
+}
+
+.rt {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #003049;
+}
+
+#under {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: #ffffff;
+
+}
+
+.button {
+  border: none;
+  background-color: white;
+  padding: 10px;
+  display: inline-block;
+}
+
+ .button1 {border-radius: 20px;}
+ .button2 {border-radius: 20px;}
+ .button3 {border-radius: 20px;}
+ .button4 {border-radius: 20px;}
+
+ #lastbtn {
+   border-radius: 10px;
+   background-color: #fb5151;
+   color: white;
+   border: none;
+   padding: 10px;
+   margin-bottom: 50px;
+   margin-left: 30px;
+ }
+
+textarea {
+  width: 87%;
+  border-radius: 10px;
+  padding: 12px 20px;
+  background-color: rgba(0, 0, 0, 0.051);
+  resize: none;
+  font-size: 13px;
+  margin-bottom: 20px;
+}
+::placeholder{
+  color: #000000;
+}
+/*
+#itona {
+  background-image: url('images/downstyle.png');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 120%;
+  color: #FFFFFF;
+  opacity: 0.7;
+  padding-bottom: 250px;
+  backg
+}
+*/
+
+
+#itona {
+ background: url('images/downstyle.png') center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-origin: content-box;
+ margin: auto;
+ height: 430px;
+ width: 580px;
+ margin-top: -430px;
+}
+

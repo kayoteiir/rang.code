@@ -7,13 +7,15 @@
 }
 
 html{ 
+    height: auto;
+    width: auto;
     margin: 15px 15px;
     padding-top: 20rem;
     background-color: rgb(255, 241, 185);
 }
 .container {
     margin-top: -20rem;
-    height: 670px;
+    height: 100vh;
     background-color: #50a3c2;
     font-family: 'Chakra Petch', sans-serif;
 }
@@ -96,7 +98,7 @@ button:active {
     }
 
     .container {
-        height: 670px;
+        height: 100vh;
     }
 
 }
@@ -108,7 +110,7 @@ button:active {
 
     .container {
        margin-top: -20rem;
-       height: 670px;
+       height: 100vh;
     }
 
     .navbar {

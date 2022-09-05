@@ -133,11 +133,26 @@ button:active {
         font-size: 11px;
     }
     
-    @media (max-width: 450px){
+    @media (max-width: 480px){
 
         html {
-            position: static;
-            text-overflow: clip;
+            font-size: 20px;
+        }
+
+        .navbar {
+            padding-bottom: 10rem;
         }
     
-    
+        .main h2{
+            font-size: 18px;
+        }
+
+        .main button {
+            font-size: 18px;
+        }
+
+        .main i {
+            font-size: 4rem;
+        }
+ 
+        

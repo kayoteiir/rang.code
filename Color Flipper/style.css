@@ -102,7 +102,27 @@ button:active {
     }
 
 }
+@media (max-width: 600px){
 
+        html {
+            font-size: 20px;
+        }
+
+        .navbar {
+            padding-bottom: 10rem;
+        }
+    
+        .main h2{
+            font-size: 18px;
+        }
+
+        .main button {
+            font-size: 18px;
+        }
+
+        .main i {
+            font-size: 4rem;
+        }
 @media (max-width: 768px){
     html {
         font-size: 22px;

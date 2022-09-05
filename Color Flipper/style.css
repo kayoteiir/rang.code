@@ -136,7 +136,7 @@ button:active {
     @media (max-width: 480px){
 
         html {
-            font-size: 20px;
+            font-size: 50px;
         }
 
         .navbar {
